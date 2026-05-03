@@ -1,0 +1,12 @@
+{
+  "training_samples": 2630,
+  "test_samples": 658,
+  "total_samples": 3288,
+  "features": 25,
+  "mae_pct": 0.037102,
+  "rmse_pct": 0.04881,
+  "r2": 0.918855,
+  "mae_students_600": 22.3,
+  "rmse_students_600": 29.3,
+  "note": "Target is attendance_pct (0.0-1.0). Multiply by total_students for absolute headcount."
+}
